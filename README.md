@@ -62,14 +62,7 @@ The ATIS dataset is widely used for intent recognition tasks in natural language
 - **`atis_intents_train.csv`**: Used for training, includes labeled examples for intent recognition.
 - **`atis_intents_test.csv`**: Used for testing the model's clustering performance.
 
-## Contribution
-
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to [Your Name or Contact Info].
+For any questions or feedback, feel free to reach out.
