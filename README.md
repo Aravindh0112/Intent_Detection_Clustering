@@ -1,4 +1,3 @@
-# Clustering_ATIS_Intent
 
 # K-Means ATIS Intent Classification
 
